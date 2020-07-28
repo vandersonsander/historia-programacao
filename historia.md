@@ -24,7 +24,7 @@
 
 <ul>
   <li><a href="https://www.infoescola.com/informatica/historia-do-java/" target="_blank">Java</a>: Linguagem relativamente simples, orientada para objetos, que foi criada com a Idea de revolucionar as linguagens de programação.</li>
-  <li><a href="https://www.infoescola.com/informatica/php/" target="_blank">PHP: Muito importante para o desenvolvimento de aplicativos para WEB, esta linguagem esta cada vez mais tomando conta dos Web sites.</li>
+  <li><a href="https://www.infoescola.com/informatica/php/" target="_blank">PHP</a>: Muito importante para o desenvolvimento de aplicativos para WEB, esta linguagem esta cada vez mais tomando conta dos Web sites.</li>
 </ul>
 
 <p>A programação esta em todos os equipamentos eletrônicos atuais. Cada programa, cada pagina na internet, esta escrita em alguma linguagem de programação. Com o tempo, as linguagens vêm se unindo, formando linguagens mais fortes, e com mais funções.</p>
